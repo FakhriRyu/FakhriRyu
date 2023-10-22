@@ -26,8 +26,10 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhriryu&show_icons=true&locale=en&layout=compact>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhriryu&show_icons=true&locale=en&layout=compact" alt="fakhriryu" /></p> <br>
+## Activity On GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakhriryu&show_icons=true&locale=en" alt="fakhriryu" /></p><br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fakhriryu&" alt="fakhriryu" /></p>
+<p align="center">
+  <a href="https://github.com/FakhriRyu">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
