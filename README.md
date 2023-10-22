@@ -30,6 +30,6 @@
 
 <p align="center">
   <a href="https://github.com/FakhriRyu">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fakhriryu&"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fakhriryu&theme=dark&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
