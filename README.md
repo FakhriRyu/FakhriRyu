@@ -17,6 +17,11 @@
 
 <p align="left"> <a href=""><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,nodejs,laravel"> </a> </p>
 
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=fakhriryu&show_icons=true&locale=en">
+</p>
+
 ## Activity On GitHub
 
 <p align="center">
