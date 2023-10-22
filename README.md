@@ -5,13 +5,9 @@
 
 - 🔭 I’m currently working on **E-SkripsiFKIP**
 
-- 🌱 I’m currently learning **Laravel, CodeIgniter3, JavaScript, Node.JS**
-
-- 💬 Ask me about **Anything**
+- 🌱 I’m currently learning **Laravel, JavaScript, Etc**
 
 - 📫 How to reach me **fakhrialwan372@gmail.com**
-
-- ⚡ Fun fact **I am Cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
