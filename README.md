@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakhriryu&label=Profile%20views&color=0e75b6&style=flat" alt="fakhriryu" /> </p>
 
-- 🔭 I’m currently working on **FOMO**
+- 🔭 I’m currently working on **PT Ascon Inovasi Data**
 
 - 🌱 I’m currently learning **Laravel, JavaScript, Etc**
 
