@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PT Ascon Inovasi Data**
 
-- 🌱 I’m currently learning **Laravel, JavaScript, Etc**
+- 🌱 I’m currently learning **PHP, JavaScript, Etc**
 
 - 📫 How to reach me **fakhrialwan372@gmail.com**
 
